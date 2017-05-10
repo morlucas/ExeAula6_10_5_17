@@ -12,7 +12,7 @@ public class ExeString {
 		for(int i=0;i<26;i++){
 			letras[i] = 0;
 		}
-		
+		morlucas@gmail.com
 		
 		//verificando as quantidades
 		for(int i = 0;i<formatada.length(); i++){
